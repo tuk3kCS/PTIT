@@ -1,0 +1,7 @@
+1. Xem thêm
+https://openplanning.net/10423/android-ui-layouts
+https://openplanning.net/12639/android-linearlayout
+https://openplanning.net/12641/android-tablelayout
+
+2. Tự thực hành
+https://developer.android.com/codelabs/constraint-layout#0

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BMI Prediction</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        .container { max-width: 400px; margin: auto; }
+        input { width: 100%; padding: 10px; margin: 8px 0; }
+        button { width: 100%; padding: 10px; background: #4CAF50; color: white; border: none; cursor: pointer; }
+        button:hover { background: #45a049; }
+        .output { margin-top: 20px; padding: 15px; background: #f2f2f2; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>BMI Prediction</h2>
+        <form method="POST">
+            <label>Weight (kg):</label>
+            <input type="text" name="weight" required>
+            <label>Height (m):</label>
+            <input type="text" name="height" required>
+            <button type="submit">Predict</button>
+        </form>
+
+        {% if category %}
+        <div class="output">
+            <p><strong>Output:</strong> {{ category }}</p>
+            <p><strong>Advice:</strong> {{ advice }}</p>
+        </div>
+        {% endif %}
+    </div>
+</body>
+</html>
