@@ -1,0 +1,240 @@
+﻿1
+00:00:06,640 --> 00:00:10,399
+In this series we’ve talked quite 
+a bit about goods and services.  
+
+2
+00:00:10,400 --> 00:00:14,160
+Now it’s time to look at the people who 
+produce all those goods and services.  
+
+3
+00:00:14,720 --> 00:00:20,400
+These are people who perform labor, which means 
+they must have a job. But how do we determine  
+
+4
+00:00:20,400 --> 00:00:26,000
+who has a “job” and who doesn’t? The answer is 
+actually more complicated than one might think. 
+
+5
+00:00:26,720 --> 00:00:32,960
+Economists define the labor force as all 
+nonmilitary people who are both employed  
+
+6
+00:00:32,960 --> 00:00:38,480
+and unemployed. However, different countries 
+often define the labor force in different ways.  
+
+7
+00:00:39,200 --> 00:00:44,320
+In the United States, the Bureau of Labor 
+Statistics determines how many people are  
+
+8
+00:00:44,320 --> 00:00:51,120
+in the labor force. They consider people to be 
+employed if they are 16 years or older and meet at  
+
+9
+00:00:51,120 --> 00:00:57,839
+least one of the following requirements. One, they 
+worked at least one hour for pay in the past week.  
+
+10
+00:00:58,720 --> 00:01:03,200
+Two, they worked fifteen or more hours 
+without pay in a family business.  
+
+11
+00:01:03,840 --> 00:01:10,240
+Or three, they held jobs but did not work due 
+to either sickness, vacation, labor disputes,  
+
+12
+00:01:10,240 --> 00:01:15,679
+or bad weather. Typically, those who are 
+not included in the labor force include  
+
+13
+00:01:15,680 --> 00:01:23,920
+full-time students, stay-at-home parents, retired 
+people, active military, the institutionalized,  
+
+14
+00:01:23,920 --> 00:01:28,160
+and those who have given up looking for 
+employment for an extended period of time.  
+
+15
+00:01:29,920 --> 00:01:35,120
+What if someone has more than one job? They’re 
+still only counted once in the labor force. 
+
+16
+00:01:36,160 --> 00:01:41,759
+Technology is constantly changing the labor 
+force. In the early days of the United States,  
+
+17
+00:01:41,760 --> 00:01:47,760
+most citizens were farmers. Throughout the 
+1800s, however, the economy transformed  
+
+18
+00:01:47,760 --> 00:01:53,360
+due to the Industrial Revolution, a time 
+of rapid economic expansion caused by the  
+
+19
+00:01:53,360 --> 00:01:58,880
+shift from agriculture and production by hand 
+to factories and production using machines.  
+
+20
+00:01:59,440 --> 00:02:05,759
+By the early 1900s, heavy manufacturing had 
+become the main driver of the American economy.  
+
+21
+00:02:05,760 --> 00:02:11,760
+In the second half of the 1900s, a boom in 
+electronics created a new wave of factory  
+
+22
+00:02:11,760 --> 00:02:18,160
+jobs. Beginning in the 1970s, the revolution 
+in personal computers led to yet another boom.  
+
+23
+00:02:18,800 --> 00:02:24,960
+Due to rapidly changing technology, over the past 
+few decades service-producing industries have  
+
+24
+00:02:24,960 --> 00:02:32,240
+been far outpacing good-producing industries.
+Globalization has also dramatically changed  
+
+25
+00:02:32,240 --> 00:02:37,760
+the labor force in recent years. While the 
+number of service jobs has increased, the  
+
+26
+00:02:37,760 --> 00:02:44,720
+United States has lost millions of manufacturing 
+jobs, mostly due to outsourcing and offshoring.  
+
+27
+00:02:45,280 --> 00:02:51,040
+Outsourcing is when a company contracts with 
+another company to do a specific job that would  
+
+28
+00:02:51,040 --> 00:02:57,760
+otherwise be done by a company’s own workers. Most 
+companies outsource work in at least some way.  
+
+29
+00:02:58,480 --> 00:03:04,160
+Offshoring is when a company shifts some of 
+its operations, or resources of production,  
+
+30
+00:03:04,160 --> 00:03:10,799
+to another country. More often than not, companies 
+outsource and offshore in order to save money,  
+
+31
+00:03:10,800 --> 00:03:15,040
+as they can pay workers in other countries 
+less than workers in their own country. 
+
+32
+00:03:15,920 --> 00:03:21,119
+As less-skilled manufacturing jobs moved 
+overseas, the Americans who had filled  
+
+33
+00:03:21,120 --> 00:03:27,040
+these jobs had to find new work, and many had 
+to go back to school or enter new job training  
+
+34
+00:03:27,040 --> 00:03:32,480
+programs in order to gain new skills. Because 
+of this, it is increasingly the case that a high  
+
+35
+00:03:32,480 --> 00:03:38,399
+school diploma alone is not enough to prepare 
+Americans for financial success. Therefore,  
+
+36
+00:03:38,400 --> 00:03:43,600
+post-secondary education has skyrocketed 
+in popularity over the past few decades.  
+
+37
+00:03:44,160 --> 00:03:48,960
+Economists have two explanations for the 
+connection between educational advancement  
+
+38
+00:03:48,960 --> 00:03:55,120
+and higher wages. The first theory, called the 
+learning effect, says that education increases  
+
+39
+00:03:55,120 --> 00:04:00,560
+efficiency of production, and therefore leads 
+to higher wages. The second theory, called the  
+
+40
+00:04:00,560 --> 00:04:05,920
+screening effect, says that the completion 
+of college signals to employers that a job  
+
+41
+00:04:05,920 --> 00:04:12,000
+applicant is both intelligent and hard-working.
+Other trends in recent years include a shift  
+
+42
+00:04:12,000 --> 00:04:18,720
+toward a more diverse labor force, an increase 
+in part time workers, and a shift toward what  
+
+43
+00:04:18,720 --> 00:04:25,760
+is known as a “gig economy.” A gig economy is 
+a labor market characterized by freelance work,  
+
+44
+00:04:25,760 --> 00:04:32,159
+as opposed to permanent jobs. Instead of a worker 
+staying with one company, in a gig economy that  
+
+45
+00:04:32,160 --> 00:04:37,840
+worker would have short-term contracts with 
+various companies. Whatever career you decide on,  
+
+46
+00:04:37,840 --> 00:04:43,760
+you will have to be prepared for change, as labor 
+markets are increasingly dynamic. At some point in  
+
+47
+00:04:43,760 --> 00:04:49,520
+your life, you will almost certainly be a part of 
+the labor force, whether you want to be or not. So  
+
+48
+00:04:49,520 --> 00:04:55,840
+it’s best to be prepared in advance, which means 
+we’d better continue to learn about economics.
+
