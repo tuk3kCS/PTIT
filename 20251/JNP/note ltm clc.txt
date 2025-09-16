@@ -1,0 +1,61 @@
+Đặng Ngọc Hùng - hungdn@ptit.edu.vn
+Bộ môn CNPM
+-----------------------------------
+Lập trình mạng (OOP (JAVA) + Network)
+Mục tiêu:
+---> xây dựng/phát triển ứng dụng/hệ thống có giao tiếp(gửi/nhận dữ liệu) qua mạng (sử dụng giao thức)
+
+Nội dung:
+    1. Tổng quan
+    2. Stream (Luồng dữ liệu)
+    3. Thread (Luồng xử lý - JVM)
+    4. TCP Socket (Stream Socket)
+    5. UDP Socket (Datagram Socket)
+    6. HTTP/SMTP/FTP
+    7. NIC/Multicast
+    8. RMI (Remote method invocation - java)
+    9. Web service (SOAP base WS)   # REST Service
+    10. ...
+
+Học liệu:
+    1. Java Network Programming (4th)
+    2. Network Programming with Go (2021)
+
+Thực hiện:  16 tuần + 03 thực hành
+    - 05 tuần đầu: GV trình bày 10 nội dung
+    - 05 tuần giữa: Nhóm sv trình bày topic (mới/nâng cao)
+        -> slides (10-15) + demo ngắn
+    - 06 tuần cuối: Nhóm sv báo cáo bài tập lớn
+        -> source code + readme.md, 03 buổi báo cáo.
+        
+Đánh giá:
+    1. CC: 10%, -01 điểm/ 01 vắng. Điểm danh: 03 buổi.
+    2. TBKT: 20%, cá nhân, thi phòng máy 60', java.
+        + TH1: TCP Socket
+        + TH2: UDP Socket
+        + TH3: RMI + WS
+    --> Format thi -> Yêu cầu viết chương trình client giao tiếp với server theo giao thức/logic trong đề bài.
+    3. BTL: 20%, nhóm sv, tối đa 03/nhóm, không giới hạn ngôn ngữ
+        + github classroom --> version/source control
+        + đánh giá cá nhân/nhóm --> commit
+        + Cộng điểm trình bày topic -> B+/A/A+
+        + Cộng điểm vào thi KTHP 
+    4. KTHP: 50%, cá nhân, thi trên phòng máy 60'
+        + Như thi thực hành, nội dung là tổng hợp.
+        + Căn chỉnh với điểm BTL
+    
+Giao tiếp:
+    - (all) Thông báo/thắc mắc/hỏi đáp/thảo luận --> tạo bài viết và bình luận trong group fb
+    - group:    https://fb.com/groups/jnp2025
+    - email:    hungdn@ptit.edu.vn
+    
+    
+
+
+
+
+
+
+
+
+
