@@ -26,7 +26,7 @@ public class esLSDxN2 {
     public static void main(String[] args) throws Exception {
         DatagramSocket socket = new DatagramSocket();
 
-        String request = ";B22DCDT294;esLSDxN2";
+        String request = ";B22DCDT294;esLSDxN2"; 
         byte[] sendData = request.getBytes();
 
         DatagramPacket sendPacket = new DatagramPacket(sendData, sendData.length, InetAddress.getByName("203.162.10.109"), 2209);
