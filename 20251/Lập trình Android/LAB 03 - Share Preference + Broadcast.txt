@@ -1,0 +1,10 @@
+1. Data
+https://openplanning.net/10489/android-sharedpreferences
+https://openplanning.net/10539/android-internal-storage
+https://openplanning.net/10541/android-external-storage
+
+Ví dụ 14,15,16 trong thư mục Code Android Basic
+
+2. BroadCast
+
+https://www.tutorialspoint.com/android/android_broadcast_receivers.htm
