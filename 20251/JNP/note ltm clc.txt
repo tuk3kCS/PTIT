@@ -50,11 +50,14 @@ Giao tiếp:
     - email:    hungdn@ptit.edu.vn
     
     
-
-
-
-
-
+báo cáo:
+- trình bày các keyword - sử dụng trong trường hợp nào
+- streaming là gì
+- giới thiệu kĩ thuật
+- trong trường hợp nào sử dụng grpc
+- stub - skeleton, sinh code bằng wsdl
+- làm thế nào để độc lập về ngôn ngữ client và server?
+- registry server, link server
 
 
 
