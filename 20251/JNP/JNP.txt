@@ -1,0 +1,166 @@
+Best Fit for a 5-Week Midterm
+🥇 Distributed File Storage System (DFS)
+
+This is perfectly balanced between:
+
+real distributed networking,
+
+interesting design (metadata, replication),
+
+and achievable implementation within 5 weeks.
+
+It’s ambitious but not overkill — and you can incrementally add features each week.
+
+🗓️ 5-Week Roadmap (DFS Plan)
+Week	Goal	Deliverable
+Week 1	✅ Set up base gRPC services and Docker Compose	Working Upload / Download between client, master, and one storage node
+Week 2	✅ Add multiple storage nodes + replication	File replicated to 2 nodes
+Week 3	✅ Add metadata persistence (JSON/SQLite)	Master remembers file locations
+Week 4	✅ Add dynamic load balancing	Master selects least-loaded nodes using GetStatus()
+Week 5	✅ Add extra polish	Fault-tolerance (node failover) or auto-scaling simulation + final report/demo
+
+Optional extensions if you have time:
+
+Add checksum verification
+
+Add simple web dashboard to visualize node health
+
+Add file rebalancing after scale-up
+
+💡 Why DFS Fits Perfectly
+Reason	Explanation
+Heavy on Networking	You’re building multiple gRPC services communicating concurrently.
+Distributed System Concepts	Includes replication, metadata, load balancing.
+Scalable for Grades	You can stop at 3 nodes + metadata, or go full auto-scaling for extra credit.
+Testable Offline	Works entirely over localhost or Docker Compose network.
+Showcases Many Skills	Protocol design, concurrency, streaming, system coordination, and fault handling.
+⚙️ Recommended “Scope for Midterm”
+
+For a realistic 5-week midterm:
+
+✅ Implement client ↔ master ↔ storage nodes using gRPC
+
+✅ Support upload, download, delete
+
+✅ Store metadata in a JSON/SQLite file
+
+✅ Support replication factor = 2
+
+✅ Implement load-based node selection
+
+(Optional bonus): Simulated auto-scaling or simple heartbeat monitoring
+
+This gives you a clean architecture, tangible results, and a great demo.
+
+🎬 Demo Ideas
+
+At the final presentation, show:
+
+Upload a large file (e.g. 500MB video).
+
+Show the master’s metadata file updating.
+
+Stop one node, then download the file (it still works from the replica!).
+
+Start a new node → upload again → new node gets used automatically.
+
+(Optional) Show a “load dashboard” via logs or small CLI.
+
+That’s an A+ demo.
+
+✅ Final Verdict
+Feature	Distributed File Storage System
+Technical depth	High (gRPC, concurrency, distributed coordination)
+Implementable in 5 weeks	Yes, with clear milestones
+Offline testable	Fully
+Teachable and impressive	100%
+Expandable for finals	Yes — add autoscaling or fault recovery later
+
+→ Recommendation:
+Go with the Distributed File Storage System with Replication, Load Balancing, and Metadata Management.
+That’s the best possible fit for a 5-week midterm in Network Programming — rich in networking, feasible to build, and easy to show off.
+
+Would you like me to help you outline a week-by-week task breakdown with coding goals (like a project roadmap you can hand in or track)?
+
+Awesome! Here’s a clear, week-by-week 5-week project roadmap tailored for your Distributed File Storage System (DFS) midterm. It breaks down tasks, so you can track progress easily and hit all major milestones:
+
+5-Week DFS Midterm Project Roadmap
+Week 1: Setup & Basic File Upload/Download
+
+Design your gRPC proto files for:
+
+UploadFile(stream Chunk) returns UploadStatus
+
+DownloadFile(FileRequest) returns stream Chunk
+
+DeleteFile(FileRequest) returns DeleteStatus
+
+Implement the master server and a single storage node
+
+Implement a simple client to upload/download files
+
+Test upload/download of small files locally (localhost or Docker)
+
+Set up Docker Compose for master + storage node container
+
+Week 2: Multiple Storage Nodes & Replication
+
+Add support for multiple storage nodes (at least 2)
+
+Implement replication factor = 2: master sends uploaded file chunks to two different storage nodes
+
+Implement simple metadata tracking in master: which file is stored on which nodes (in-memory or JSON file)
+
+Test uploading files that replicate to two nodes and downloading from either node
+
+Week 3: Persistent Metadata & Node Status
+
+Replace in-memory metadata with persistent metadata storage (SQLite or JSON file)
+
+Implement a new gRPC RPC in storage nodes: GetStatus() returning disk usage and health info
+
+Master periodically queries all storage nodes with GetStatus()
+
+Update master metadata with node health and available free space
+
+Test that master tracks storage node health and space correctly
+
+Week 4: Load Balancing & Fault Tolerance
+
+Enhance master to select least-loaded nodes for uploads based on GetStatus() data (weighted or simple least free space)
+
+Implement delete RPC fully in master and storage nodes (remove file and update metadata)
+
+Handle node failure:
+
+Mark node offline if no heartbeat or no response
+
+Uploads/downloads exclude offline nodes
+
+Test uploading/downloading with node failures (stop a storage node mid-demo)
+
+Week 5: Polish & Optional Auto-Scaling Simulation
+
+Add heartbeat mechanism: storage nodes ping master regularly to confirm liveness
+
+(Optional) Implement a simple auto-scaling simulation:
+
+Master spawns new Docker storage node containers when average free space < threshold
+
+Master can shut down idle nodes gracefully
+
+Write a final report summarizing your design, protocol, and testing results
+
+Prepare a demo script showing uploads, replication, node failures, and recovery
+
+Bonus Tips:
+
+Keep your proto files clean and versioned.
+
+Write reusable client scripts for uploading/downloading.
+
+Use Docker volumes to persist node storage between restarts.
+
+Log key events (uploads, deletes, node status) to console for easy demo.
+
+Consider adding file checksum verification (MD5/SHA256) for integrity.
