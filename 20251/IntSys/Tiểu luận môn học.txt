@@ -1,0 +1,13 @@
+Tiểu luận môn học
+//Đánh giá lần 1: 27/11
+//Nộp tối thứ 2, 24/11, trước 11:30pm
+----------
+Phần 1
+- Câu hỏi - trả lời - code ví dụ
+(Từ các bài tập trước + textbook 2)
+
+Phần 2
+- Case study 1
+...
+- Case study 10
+Từ bài tập + improve code + đánh giá
