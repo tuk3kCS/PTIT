@@ -1,0 +1,9 @@
+Đánh giá:
+	1. Readme.md --> tên chủ đề --> thành viên --> phân chia công việc
+		--> Kiến trúc tổng quan --> module/ thành phần --> giao tiếp với nhau ra sao (giao thức)
+
+	2. Source các module
+		- xem readme.md
+		- xem source
+	3. Xem contribute
+	4. Xem demo và hỏi đáp
