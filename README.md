@@ -1,10 +1,10 @@
 # Giới thiệu
 
-Repo này chứa toàn bộ tài liệu các môn mình đã học (không kể những môn không tính tín chỉ) của chuyên ngành Công nghệ phần mềm, ngành Công nghệ thông tin chương trình Chất lượng cao khóa 2022-2027 tại Học viện Công nghệ Bưu chính Viễn thông, bao gồm giáo trình, bài giảng, bài tập của các môn học.
+Repo này chứa toàn bộ tài liệu các môn mình đã học (không kể những môn không tính tín chỉ và tiếng Anh) của chuyên ngành Công nghệ phần mềm, ngành Công nghệ thông tin chương trình Chất lượng cao khóa 2022-2027 tại Học viện Công nghệ Bưu chính Viễn thông, bao gồm giáo trình, bài giảng, bài tập của các môn học.
 
 Các bạn có thể tìm tài liệu theo kì học hoặc giảng viên dựa vào khung chương trình đào tạo phía dưới.
 
-Chúc các bạn học tập tốt.
+Chúc các bạn học tập tốt, cho mình 1 star nếu thấy repo này hữu ích với bạn nhé.
 
 # Khung chương trình đào tạo - chuyên ngành CNPM (CLC) khóa 2022-2027
 
