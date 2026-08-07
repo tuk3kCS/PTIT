@@ -15,7 +15,7 @@ Chúc các bạn học tập tốt, cho mình 1 star nếu thấy repo này hữ
     └── Nhập môn tin học và lập trình - Giảng viên: Thầy TS. Nguyễn Mạnh Sơn
 ├── Kì 2 (20222)
     ├── Giải tích 2 - Giảng viên: Thầy GS. TS. Phạm Ngọc Anh
-    ├── Vật lý 1 và thí nghiệm - Giảng viên: Cô TS. Nguyễn Thị Thúy Liễu
+    ├── Vật lý 1 và thí nghiệm - Giảng viên: Cô TS. Nguyễn Thị Thúy Liễu - Cô TS. Lê Thị Minh Thanh
     └── Ngôn ngữ lập trình C++ - Giảng viên: Thầy TS. Nguyễn Duy Phương
 ├── Kì 3 (20231)
     ├── Xác suất thống kê - Giảng viên: Cô TS. Nguyễn Thị Minh Tâm
